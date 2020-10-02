@@ -24,7 +24,7 @@ Road is wavy
 gt:The road is wavy
 rt:Road is wavy
 
-5.कोकण हिर्वगार आहे
+5.कोकण हिरवागार आहे
 Konkan is green
 gt:Konkan is hirvagara
 rt:Konkan is green
@@ -5095,5 +5095,8 @@ RT:good night
 Good(happy) morning
 GT:good morning
 RT:good morning
-
+<hr>
+Thanks
+धन्यवाद
+<hr>
 
